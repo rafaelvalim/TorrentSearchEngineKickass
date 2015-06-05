@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # Author: rafael valim
 # URL: http://pantuts.com
+# Widows only 
 # Agreement: You can use, modify, or redistribute this tool under the terms of GNU General Public License (GPLv3).
 # This tool is for educational purposes only. Any damage you make will not affect the author.
 # Dependencies:
